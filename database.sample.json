@@ -1,0 +1,10 @@
+{
+  "userName": "",
+  "server": "",
+  "domain": "",
+  "password": "",
+  "options": {
+    "database": "",
+    "useColumnNames": true
+  }
+}

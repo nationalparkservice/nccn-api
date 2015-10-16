@@ -1,0 +1,25 @@
+{
+  "name": "nccn-api",
+  "version": "0.0.1",
+  "description": "An API to drive NCCN data visualization apps",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Ryan J. Hodge <ryan_hodge@nps.gov>",
+  "license": "CC0-1.0",
+  "dependencies": {
+    "express": "^4.13.3",
+    "tedious": "^1.12.3",
+    "wellknown": "^0.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nationalparkservice/nccn-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nationalparkservice/nccn-api/issues"
+  },
+  "homepage": "https://github.com/nationalparkservice/nccn-api#readme"
+}
